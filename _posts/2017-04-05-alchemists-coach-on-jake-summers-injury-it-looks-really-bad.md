@@ -1,6 +1,6 @@
 ---
 ID: 88
-post_title: 'Alchemists coach on Jake Summer&#8217;s injury &#8220;It looks really bad&#8221;'
+post_title: 'Ninja rubia &#8211; Nuevo Personaje'
 author: m3t1n2b00s
 post_excerpt: ""
 layout: post
