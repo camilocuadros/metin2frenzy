@@ -1,0 +1,12 @@
+---
+ID: 1109
+post_title: 'Shortcodes &#8211; Team'
+author: m3t1n2b00s
+post_excerpt: ""
+layout: page
+permalink: >
+  https://metin2frenzy.com/shortcodes/shortcodes-team/
+published: true
+post_date: 2018-01-24 12:00:29
+---
+[vc_row][vc_column offset="vc_col-md-4"][alc_team_stats team_id="40" league_table_id="1147" values="%5B%7B%22stat_heading%22%3A%22Points%20For%22%2C%22stat_value%22%3A%221549%22%2C%22stat_icon%22%3A%22icon_1%22%2C%22stat_icon_symbol%22%3A%223%22%7D%2C%7B%22stat_heading%22%3A%22Points%20Against%22%2C%22stat_value%22%3A%221550%22%2C%22stat_icon%22%3A%22icon_2%22%2C%22stat_icon_symbol%22%3A%223%22%7D%2C%7B%22stat_heading%22%3A%22Wins%22%2C%22stat_value%22%3A%221545%22%2C%22stat_icon%22%3A%22icon_custom%22%2C%22stat_icon_symbol%22%3A%22W%22%7D%2C%7B%22stat_heading%22%3A%22Losses%22%2C%22stat_value%22%3A%221546%22%2C%22stat_icon%22%3A%22icon_custom%22%2C%22stat_icon_symbol%22%3A%22L%22%7D%2C%7B%22stat_heading%22%3A%22Touchdowns%22%2C%22stat_value%22%3A%221552%22%2C%22stat_icon%22%3A%22icon_1%22%2C%22stat_icon_symbol%22%3A%22W%22%7D%2C%7B%22stat_heading%22%3A%22Win%20Percentage%22%2C%22stat_value%22%3A%221548%22%2C%22stat_icon%22%3A%22icon_3%22%2C%22stat_icon_symbol%22%3A%22W%22%7D%5D" title="Team Stats"][/vc_column][vc_column offset="vc_col-md-4"][alc_team_leaders player_lists_id="1348" values="%5B%7B%22stat_heading%22%3A%22Touchdowns%22%2C%22stat_value%22%3A%221540%22%2C%22stat_avg%22%3A%221565%22%2C%22stat_number%22%3A%222%22%7D%2C%7B%22stat_heading%22%3A%22Rec%20Yards%22%2C%22stat_value%22%3A%221539%22%2C%22stat_avg%22%3A%221559%22%2C%22stat_number%22%3A%222%22%7D%2C%7B%22stat_heading%22%3A%22Yards%22%2C%22stat_value%22%3A%221537%22%2C%22stat_avg%22%3A%221558%22%2C%22stat_number%22%3A%221%22%7D%5D" title="Team Leaders"][/vc_column][vc_column offset="vc_col-md-4"][alc_games_history team_id="40" title="Games History"][/vc_column][/vc_row][vc_row][vc_column offset="vc_col-md-8"][alc_team_points_history team_id="40" title="Team Points History"][/vc_column][vc_column offset="vc_col-md-4"][alc_images_carousel images="1358,1357,1356" title="Awards"][/vc_column][/vc_row][vc_row][vc_column][vc_column_text][team_standings id="200" title="League Table" number="5" columns="w,l,t,pct,pf,pa,netpts,td,streak" show_team_logo="1" show_full_table_link="1" align="none"][/vc_column_text][/vc_column][/vc_row]
