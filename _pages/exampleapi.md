@@ -8,6 +8,4 @@ permalink: https://metin2frenzy.com/exampleapi/
 published: true
 post_date: 2019-10-16 19:14:47
 ---
-[alchemists_wp_site_icon]
-
-[wp_head]
+[vc_row][vc_column][my_vc_php_output][/vc_column][/vc_row]
