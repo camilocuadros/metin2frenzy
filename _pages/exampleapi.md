@@ -8,4 +8,4 @@ permalink: https://metin2frenzy.com/exampleapi/
 published: true
 post_date: 2019-10-16 19:14:47
 ---
-[vc_row][vc_column][vc_raw_html]JTI0dXJsJTIwJTNEJTIwJTI3aHR0cCUzQSUyRiUyRmh0dHBiaW4ub3JnJTJGZ2V0JTNGYSUzRGIlMjZjJTNEZCUyNyUzQiUwQSUwQSUyNHJlc3BvbnNlJTIwJTNEJTIwd3BfcmVtb3RlX2dldCUyOCUyMCUyNHVybCUyMCUyOSUzQg==[/vc_raw_html][/vc_column][/vc_row]
+[vc_row][vc_column][vc_raw_js]JTNDJTNGcGhwJTBBZWNobyUyMCUyMkhvbGElMjIlM0IlMEElM0YlM0U=[/vc_raw_js][/vc_column][/vc_row]
