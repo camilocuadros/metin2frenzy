@@ -1,13 +1,13 @@
 ---
-ID: 1392
+ID: 1744
 post_title: Una espada por el dios dragón
-author: m3t1n2b00s
+author: m3tin2b00s2
 post_excerpt: ""
 layout: post
 permalink: >
-  https://metin2frenzy.com/una-espada-por-el-dios-dragon/
+  https://metin2frenzy.com/una-espada-por-el-dios-dragon-2/
 published: true
-post_date: 2017-12-04 12:00:17
+post_date: 2019-10-17 20:34:16
 ---
 La caída de las Piedras Metin ha desgarrado profundas heridas en el antaño floreciente mundo del Dios Dragón. Ha estallado una guerra entre los reinos; los animales salvajes se han transformado en bestias terroríficas y los muertos han despertado a una nueva vida demoníaca y sedienta de sangre.
 
