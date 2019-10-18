@@ -1,6 +1,8 @@
 ---
 ID: 91
-post_title: Iutnori en Halloween
+post_title: >
+  Iutnori en Halloween Iutnori en
+  Halloween
 author: m3t1n2b00s
 post_excerpt: ""
 layout: post
