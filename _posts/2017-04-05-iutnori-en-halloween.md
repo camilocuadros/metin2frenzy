@@ -9,10 +9,9 @@ permalink: >
 published: true
 post_date: 2017-04-05 12:23:52
 ---
-<div>
 <div class="c0155">
 
-<strong>fffGuía de entrada e instalación de Metin2 Frenzy</strong>
+<strong>Guía de entrada e instalación de Metin2 Frenzy</strong>
 
 Registro
 <ul>
@@ -20,9 +19,16 @@ Registro
 </ul>
 Descarga e instalación
 <ul>
- 	<li>¿Ya quieres empezar? Muy bien, ahora debes ir a la página de descargas <a href="https://metin2frenzy.com/my-account/">aquí</a>. Ahora, busca el archivo de instalación y dale doble click en la carpeta</li>
- 	<li>Cuando se haya descargado completamente, escoge el sitio de tu PC donde quieras que se guarde el archivo. Aparecerá un ícono.</li>
- 	<li></li>
+ 	<li>¿Ya quieres empezar? Muy bien, ahora debes ir a la página de descargas <a href="https://metin2frenzy.com/my-account/">aquí</a>. Ahora, busca el archivo de instalación y dale doble click en la carpeta.</li>
+ 	<li>Cuando se haya descargado completamente, escoge el sitio de tu PC donde quieras que se guarde el archivo. Aparecerá un ícono en el escritorio de tu PC.</li>
+</ul>
+Primera vez en Frenzy
+
+Esto es lo que harás cada vez que quieras entrar al mundo Frenzy
+<ul>
+ 	<li>Para iniciar, debes dar docble click en el ícono de Frenzy que guardaste en tu PC.</li>
+ 	<li>Luego, deberás iniciar sesión con el ID y clave con el que te registraste.</li>
+ 	<li>¡Es hora de crear tu personaje! Para saber todo sobre razas y sus cualidades, es necesario que leas</li>
 </ul>
 Los días son cada vez más cortos, las noches más largas y oscuras… ¡llega Halloween! Durante este misterioso periodo, los habitantes del mundo de Metin2 se ponen atuendos horripilantes a la par que bonitos, adoptan mascotas terroríficas y ganan premios geniales en el evento de Iutnori.
 Si queréis celebrarlo con ellos, no os perdáis los nuevos objetos de Halloween de la tienda: allí podréis haceros, solo durante tiempo limitado, con la Toga visión y el accesorio correspondiente para la cabeza en dos colores místicos, además de las mascotas felinas videntes y dos monturas de murciélago supertenebrosas. Quien combine atuendo, piruleta, accesorio para la cabeza y mascota disfrutará de fantásticas bonificaciones de set:
@@ -71,12 +77,4 @@ Es posible dar una probabilidad superior a una tirada determinada. Para ello, se
 <h4 id="atencin">Atención</h4>
 Si se abandona el juego antes de tiempo o se abandona el mapa actual, no se recibirá ninguna recompensa
 
-</div>
-</div>
-<div class="jfk-bubble gtx-bubble" style="visibility: visible; left: 106px; top: 356px; opacity: 1;" role="alertdialog" aria-describedby="bubble-2">
-<div class="jfk-bubble-closebtn-id jfk-bubble-closebtn" tabindex="0" role="button" aria-label="Close"></div>
-<div class="jfk-bubble-arrow-id jfk-bubble-arrow jfk-bubble-arrowup" style="left: 111px;">
-<div class="jfk-bubble-arrowimplbefore"></div>
-<div class="jfk-bubble-arrowimplafter"></div>
-</div>
 </div>
