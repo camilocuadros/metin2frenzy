@@ -5,7 +5,7 @@ author: m3t1n2b00s
 post_excerpt: ""
 layout: post
 permalink: >
-  https://metin2frenzy.com/the-beginning-frenzy/
+  https://metin2frenzy.com/frenzy-the-beginning/
 published: true
 post_date: 2017-04-05 12:23:52
 ---
