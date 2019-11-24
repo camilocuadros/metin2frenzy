@@ -1,8 +1,6 @@
 ---
 ID: 91
-post_title: >
-  Iutnori en Halloween Iutnori en
-  Halloween
+post_title: 'Para empezar&#8230;'
 author: m3t1n2b00s
 post_excerpt: ""
 layout: post
@@ -14,6 +12,17 @@ post_date: 2017-04-05 12:23:52
 <div>
 <div class="c0155">
 
+<strong>Guía de entrada e instalación de Metin2 Frenzy</strong>
+
+Registro
+<ul>
+ 	<li>Para iniciar la aventura de Frenzy, es necesario que te registres <a href="https://metin2frenzy.com/my-account/">aquí</a>. Sólo debes ingresar tu nombre y los datos que te requieran. Cuando recibas el e-mail de confirmación, sigue los pasos que te indican.</li>
+</ul>
+Descarga e instalación
+<ul>
+ 	<li>¿Ya quieres empezar? Muy bien, ahora debes ir a la página de descargas <a href="https://metin2frenzy.com/my-account/">aquí</a>. Ahora, busca el archivo de instalación y dale doble click en la carpeta</li>
+ 	<li>Cuando se haya descargado completamente, escoge el sitio de tu PC donde quieras que se guarde y para en</li>
+</ul>
 Los días son cada vez más cortos, las noches más largas y oscuras… ¡llega Halloween! Durante este misterioso periodo, los habitantes del mundo de Metin2 se ponen atuendos horripilantes a la par que bonitos, adoptan mascotas terroríficas y ganan premios geniales en el evento de Iutnori.
 Si queréis celebrarlo con ellos, no os perdáis los nuevos objetos de Halloween de la tienda: allí podréis haceros, solo durante tiempo limitado, con la Toga visión y el accesorio correspondiente para la cabeza en dos colores místicos, además de las mascotas felinas videntes y dos monturas de murciélago supertenebrosas. Quien combine atuendo, piruleta, accesorio para la cabeza y mascota disfrutará de fantásticas bonificaciones de set:
 <ul>
