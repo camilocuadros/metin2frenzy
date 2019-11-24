@@ -5,7 +5,7 @@ author: m3t1n2b00s
 post_excerpt: ""
 layout: post
 permalink: >
-  https://metin2frenzy.com/iutnori-en-halloween/
+  https://metin2frenzy.com/the-beginning-frenzy/
 published: true
 post_date: 2017-04-05 12:23:52
 ---
@@ -27,6 +27,6 @@ post_date: 2017-04-05 12:23:52
  	<li>Luego, deberás iniciar sesión con el ID y clave con el que te registraste.</li>
  	<li>¡Es hora de crear tu personaje! Para saber todo sobre razas y sus cualidades, es necesario que leas <a href="https://metin2frenzy.com/">esto</a>.</li>
 </ul>
-<img class="size-full wp-image-1640 aligncenter" src="https://metin2frenzy.com/wp-content/uploads/2019/10/metin2-frenzy.png" alt="" width="250" height="337" />
+<img class="size-full wp-image-1640 aligncenter" src="https://metin2frenzy.com/wp-content/uploads/2019/10/metin2-frenzy.png" alt="" width="250" height="337">
 
 </div>
