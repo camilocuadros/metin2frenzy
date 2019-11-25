@@ -15,4 +15,4 @@ Este personaje juega un rol muy importante en las batallas cuerpo a cuerpo, pues
 
 Pueden causar un gran daño a su contrincante con armamento de dos manos, como también pueden utilizar su espada y escudo para detener los ataques de su enemigo.
 
-<strong>Aquí encontrarás 2 clases de guerreros:</strong> los <em>mental warriors</em> o de tanque, que tienen una defensa inquebrantable, y los <em>body warriors</em>, cuyo método de pelea es más ofensivo.
+<strong>Aquí encontrarás 2 clases de guerreros:</strong> los <em>mental warriors</em> o de tanque, que tienen una defensa inquebrantable y los <em>body warriors</em>, cuyo método de pelea es más ofensivo.
