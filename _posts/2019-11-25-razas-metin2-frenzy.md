@@ -17,4 +17,4 @@ post_date: 2019-11-25 16:41:42
 <h5>Guerrero</h5>
 <p>Este personaje juega un rol muy importante en las batallas cuerpo a cuerpo, pues su habilidad de cargar armadura pesada, hace que tenga una gran fuerza física y goza de una mente equilibrada.</p>
 <p>Existen 2 clases de guerreros:</p>
-<p> </p>
+<p></p>
