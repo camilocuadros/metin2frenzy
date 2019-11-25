@@ -1,6 +1,6 @@
 ---
 ID: 1812
-post_title: Razas en Metin2 Frenzy
+post_title: 'Metin2 Frenzy &#8211; Razas'
 author: m3tin2b00s2
 post_excerpt: ""
 layout: post
