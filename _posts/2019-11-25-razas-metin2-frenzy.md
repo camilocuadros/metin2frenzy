@@ -14,3 +14,5 @@ En Metin2 Frenzy, encontrarás 4 tipos de razas (guerrero, sura, ninja y chamán
 Este personaje juega un rol muy importante en las batallas cuerpo a cuerpo, pues su habilidad de cargar armadura pesada, hace que tenga una gran fuerza física y goza de una mente equilibrada.
 
 Pueden causar un gran daño a su contrincante con armamento de dos manos, como también pueden utilizar su espada y escudo para detener los ataques de su enemigo.
+
+<strong>Aquí encontrarás 2 clases de guerreros:</strong> los guerreros mentales o de tanque, que tienen una defensa inquebrantable, y los guerreros de cuerpo, cuyo método de pelea es más ofensivo.
