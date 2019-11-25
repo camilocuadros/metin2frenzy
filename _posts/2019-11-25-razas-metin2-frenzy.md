@@ -14,3 +14,7 @@ post_date: 2019-11-25 16:41:42
 <!-- /wp:image -->
 
 <p>En Metin2 Frenzy, encontrarás 4 tipos de razas (guerrero, sura, ninja y chamán), de las cuales puedes crear un personaje femenino o masculino.</p>
+<h5>Guerrero</h5>
+<p>Este personaje juega un rol muy importante en las batallas cuerpo a cuerpo, pues su habilidad de cargar armadura pesada, hace que tenga una gran fuerza física y goza de una mente equilibrada.</p>
+<p>Existen 2 clases de guerreros:</p>
+<p> </p>
