@@ -1,12 +1,12 @@
 ---
-ID: 1882
+ID: 1845
 post_title: Contact
 author: m3tin2b00s2
 post_excerpt: ""
 layout: page
 permalink: http://metin2frenzy-dev.esy.es/contact/
 published: true
-post_date: 2019-11-27 17:59:27
+post_date: 2019-11-27 19:44:21
 ---
 [vc_row css=".vc_custom_1496587941845{margin-bottom: 60px !important;}"][vc_column][alc_box title="Contact Form"][vc_row_inner][vc_column_inner width="1/3"][vc_column_text]
 <h5>Questions? Send us a Message!</h5>
