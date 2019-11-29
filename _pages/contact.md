@@ -1,6 +1,6 @@
 ---
 ID: 1845
-post_title: Contact
+post_title: Contacto
 author: m3tin2b00s2
 post_excerpt: ""
 layout: page
