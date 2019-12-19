@@ -9,12 +9,10 @@ permalink: >
 published: true
 post_date: 2019-11-25 16:41:42
 ---
-En Metin2 Frenzy, encontrarás 4 tipos de razas (guerrero, sura, ninja y chamán), de las cuales puedes crear un personaje femenino o masculino.
-<h5>Guerrero</h5>
-Este personaje juega un rol muy importante en las batallas cuerpo a cuerpo, pues su habilidad de cargar armadura pesada, hace que tenga una gran fuerza física y goza de una mente equilibrada.
-
-Pueden causar un gran daño a su contrincante con armamento de dos manos, como también pueden utilizar su espada y escudo para detener los ataques de su enemigo.
-
-<strong>Aquí encontrarás 2 clases de guerreros:</strong> los <em>mental warriors</em> o de tanque, que tienen una defensa inquebrantable y los <em>body warriors</em>, cuyo método de pelea es más ofensivo.
-
-Principalmente, los guerreros (sin importar su clase) usan estadísticas VIT y STR, hasta que llegan a nivel 90, en donde el tipo de estadísticas cambia a DEX.
+<h2>En Metin2 Frenzy podrás encontrar 4 tipos de personajes:</h2>
+<h3><a href="http://metin2frenzy-dev.esy.es/frenzy-warrior/">Guerrero (warrior)</a>           <a href="http://metin2frenzy-dev.esy.es/frenzy-shaman/">Shaman</a></h3>
+<img class="size-full wp-image-1845 alignleft" src="https://metin2frenzy.com/wp-content/uploads/2019/11/Guerrero.png" alt="" width="272" height="360" />
+<h3><img class="alignnone  wp-image-1867" src="https://metin2frenzy.com/wp-content/uploads/2019/11/Shaman_Male.png" alt="" width="289" height="383" /></h3>
+<h3><a href="http://metin2frenzy-dev.esy.es/frenzy-sura/">Sura</a>                                          <a href="http://metin2frenzy-dev.esy.es/frenzy-ninja/">Ninja</a></h3>
+<h3><img class="size-full wp-image-1868 alignleft" src="https://metin2frenzy.com/wp-content/uploads/2019/11/Sura.png" alt="" width="272" height="360" /></h3>
+<img class="alignnone size-full wp-image-1869" src="https://metin2frenzy.com/wp-content/uploads/2019/11/Ninja.png" alt="" width="272" height="360" />
