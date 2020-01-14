@@ -13,8 +13,8 @@ post_date: 2019-12-18 19:55:31
 Este personaje juega un rol muy importante en las batallas cuerpo a cuerpo, pues su habilidad de cargar armadura pesada, hace que tenga una gran fuerza física y goza de una mente equilibrada.
 
 Pueden causar un gran daño a su contrincante con armamento de dos manos, como también pueden utilizar su espada y escudo para detener los ataques de su enemigo.
-
-<strong><img class="size-full wp-image-1906 alignleft" src="http://metin2frenzy-dev.esy.es/wp-content/uploads/2019/12/warriorcontent2.png" alt="" width="205" height="388" />En Frenzy encontrarás 2 clases de guerreros:</strong> los <em>mental warriors</em> o de tanque, que tienen una defensa inquebrantable y los <em>body warriors</em>, cuyo método de pelea es más ofensivo.
+<h4><strong><img class="size-full wp-image-1906 alignleft" src="http://metin2frenzy-dev.esy.es/wp-content/uploads/2019/12/warriorcontent2.png" alt="" width="205" height="388" /><span style="color: #993300;">En Frenzy encontrarás 2 clases de guerreros</span></strong></h4>
+Los <em>mental warriors</em> o de tanque, que tienen una defensa inquebrantable y los <em>body warriors</em>, cuyo método de pelea es más ofensivo.
 
 <img class=" wp-image-1844 alignright" src="https://metin2frenzy.com/wp-content/uploads/2019/11/warrior.png" alt="" width="176" height="333" />Principalmente, los guerreros (sin importar su clase) usan estadísticas VIT (vitalidad) y STR (fuerza), hasta que llegan a nivel 90, en donde el tipo de estadísticas cambia a DEX (destreza).
 
